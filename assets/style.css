@@ -1,9 +1,11 @@
 .navbar-brand {
-    /* background-color: #4eaaa4; */
-    padding:8px;
+    padding:7px;
     font-size: 28px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: white;
+    color: white!important;
+    background-color: #4eaaa4;
+    border: 1px solid #cccccc;
+
 }
 
 .navbar {
